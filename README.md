@@ -10,10 +10,10 @@ support engineer. Highly adept in working on multiple operating systems. Profici
 customer service of an organization.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/meghanasoni](http://www.linkedin.com/in/meghanasoni))(http://www.linkedin.com/in/meghanasoni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/apurv-sharan-950b45242/](https://www.linkedin.com/in/apurv-sharan-950b45242/))(https://www.linkedin.com/in/apurv-sharan-950b45242/)
 
  <h3>
-  <a href="(https://drive.google.com/file/d/1wTa2eTGOrJcBXRBH8dSoQ1DkdHxIvU4P/view?usp=sharing)" target="_blank"> Resume </a>
+  <a href="(https://drive.google.com/file/d/1V5ocIKNMPt4Fn_BlCwp31oe1saeKwEkC/view?usp=sharing)" target="_blank"> Resume </a>
 </h3>
 
 
