@@ -1,16 +1,34 @@
-### Hi there 👋
+# 👋 Hi, I’m Apurv Sharan
 
-<!--
-**ApurvSharan/ApurvSharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Technical Support Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+<p>Hi! My name is <span> Apurv Sharan </span> and I am an Analytical and detail-oriented aspiring tech
+support engineer. Highly adept in working on multiple operating systems. Proficient in rapport-building and understanding the outstanding
+
+customer service of an organization.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/meghanasoni](http://www.linkedin.com/in/meghanasoni))(http://www.linkedin.com/in/meghanasoni)
+
+ <h3>
+  <a href="(https://drive.google.com/file/d/1wTa2eTGOrJcBXRBH8dSoQ1DkdHxIvU4P/view?usp=sharing)" target="_blank"> Resume </a>
+</h3>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ApurvSharan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ApurvSharan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvSharan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ApurvSharan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ApurvSharan&icon=0&color=0)](https://visitcount.itsvg.in)
+
