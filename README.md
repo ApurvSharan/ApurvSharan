@@ -6,7 +6,6 @@
 # 💫 About Me:
 <p>Hi! My name is <span> Apurv Sharan </span> and I am an Analytical and detail-oriented aspiring tech
 support engineer. Highly adept in working on multiple operating systems. Proficient in rapport-building and understanding the outstanding
-
 customer service of an organization.
 
 ## 🌐 Socials:
