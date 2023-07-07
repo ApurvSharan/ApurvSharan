@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Apurv Sharan
 
-- 🌱 I’m currently learning Technical Support Engineer
+- 🌱 I’m currently working as a Campaign Analyst at WPP for Microsoft
 
 
 # 💫 About Me:
